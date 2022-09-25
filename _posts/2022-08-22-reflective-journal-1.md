@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflective Journal #1
+title: Reflective Journal 1
 ---
 For this week’s topic, I want to discuss phishing and my experience with it. Phishing is an attack through social engineering that trick the victim into sending the attacker money or personal information through illegitimate website. Just recently, I was teaching my mother how to use the computer to check emails using the internet browser. One day, she received a phishing email. They pretended to be an employee who worked for the ministry of health in Vietnam and asked for the insurance payment for that month. My mom, who was still unfamiliar with the concept of scam emails, thought it was legitimate and decided to type her credit card information onto their website that’s been designed to look identical to the official one. Thankfully, she told me soon after and I was able to lock the card in time before any transaction could occur. 
 
