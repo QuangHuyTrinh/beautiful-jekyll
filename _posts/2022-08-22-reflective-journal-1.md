@@ -1,0 +1,11 @@
+---
+layout: post
+title: Reflective Journal #1
+---
+For this week’s topic, I want to discuss phishing and my experience with it. Phishing is an attack through social engineering that trick the victim into sending the attacker money or personal information through illegitimate website. Just recently, I was teaching my mother how to use the computer to check emails using the internet browser. One day, she received a phishing email. They pretended to be an employee who worked for the ministry of health in Vietnam and asked for the insurance payment for that month. My mom, who was still unfamiliar with the concept of scam emails, thought it was legitimate and decided to type her credit card information onto their website that’s been designed to look identical to the official one. Thankfully, she told me soon after and I was able to lock the card in time before any transaction could occur. 
+
+The first thing I felt when she told me what she did was fear. I feared that she might have disclosed her personal information unknowingly, as it would seriously affect her safety. Afterward, I felt disappointed in myself because of my negligence in teaching her the most basic rule that must be followed when using the internet, namely, to always verify if the information that’s shown to you is true or false. 
+
+After that unpleasant experience, I became interested in algorithms that email service providers can use to flag or filter out phishing emails. Using machine learning, even if new phishing techniques are introduced, the algorithms can be adjusted alongside them as well. Of course, there are limitations to these algorithms, such as machine training time and manual input from human. However, as machine learning evolve, the result achieved will be faster and more accurate. We may not even need to manually label an emal as spam for the algorithms anymore.
+
+In summary, phishing is a type of attack that even people who have been using the internet for a long time can fall for. The tricks and techniques that attackers can use to get money and information out of you evolve day by day. That’s why I strive to build an algorithm with machine learning that can detect phishing on its own, so that more people can safely browse the web without having to worry about being taken advantage of everytime.
